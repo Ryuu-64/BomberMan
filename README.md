@@ -38,11 +38,23 @@ https://github.com/Unity-Technologies/2d-extras.git#master
 >
 > 白点为该 Sprite **绿色箭头**为匹配指定方位**有 Sprite**  **红色叉**为匹配指定方位**无 Sprite**
 >
-> 例: 还没写
->
 > 且规则节点越在列表上层越有限匹配
+>
+> **例:** 该 Tile 除右下角无 Tile 其他位置都有 Tile
+>
+> ![image-20210123124018314](C:\Users\Ryuu\AppData\Roaming\Typora\typora-user-images\image-20210123124018314.png)
+>
+> **注:** Output 还可以选择 Random 改变 Size 加入多个 Sprite
+>
+> 此后在涂TileMap 就能有自动的随机效果
+>
+> ![image-20210123124400492](C:\Users\Ryuu\AppData\Roaming\Typora\typora-user-images\image-20210123124400492.png)
+>
+> 除此之外还可以选择 Animation 让 Tile 播放动画
+>
+> ![image-20210123124709667](C:\Users\Ryuu\AppData\Roaming\Typora\typora-user-images\image-20210123124709667.png)
 
 将该Rule Tile 添加至 Palette **直接拖动**
 
-直接用框或涂都能按指定 Rule 匹配应显示的 Sprite
+选择该 Tile 直接用框或涂都能按指定 Rule 匹配应显示的 Sprite
 

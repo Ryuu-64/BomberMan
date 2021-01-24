@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Character
+  - Enviroment
+  - Ground
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2834658367
+    locked: 0
+  - name: Ground
+    uniqueID: 3889280023
+    locked: 0
+  - name: Enviroment
+    uniqueID: 1633248091
+    locked: 0
+  - name: Character
+    uniqueID: 2768802273
     locked: 0
