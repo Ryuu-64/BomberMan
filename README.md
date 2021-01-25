@@ -1,6 +1,6 @@
-# BomberMan
+# PirateBomberMan
 
-BomberMan - Michael
+PirateBomberMan - Michael
 
 # 2D Tilemap Extras Rule Tile
 
